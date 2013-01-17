@@ -1,16 +1,16 @@
 public class Sum {
-    public static int sum = 0;
 
     public static void main(String args[]) {
-        for (String str: args) {
-            str.replace("\""," ").replace(" ", "");
-            String[] parts = str.split(" ");
-            for (String str_part: parts) {
-                if (!str_part.equals("")) {
-                    sum = sum + Integer.parseInt(str_part);
+		int sum = 0;
+        for (String arg: args) {
+            String[] parts = arg.split("[\\s\"]");
+            for (String part: parts) {
+                if (!part.equals("")) {
+                    sum += Integer.parseInt(part);
                 }
             }
         }
         System.out.println(sum);
     }
+
 }
