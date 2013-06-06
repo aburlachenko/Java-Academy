@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+README.md
+*.DS_Store
+.idea
