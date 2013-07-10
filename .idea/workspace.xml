@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b90efd6-0269-460a-92b1-4309b228d431" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_4/AbstractBinaryOperation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_4/Const.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_3/CycLinkedQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_4/Division.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_4/Expression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_3/LinkedQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_4/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_4/Minus.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_3/Node.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_4/Plus.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_3/Queue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_3/Sum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_4/Times.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task_6_1_4/Variable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Task_6_1_4/Main.java" afterPath="$PROJECT_DIR$/src/Task_6_1_4/Main.java" />
     </list>
     <ignored path="JavaAcademy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +25,7 @@
     <file path="/Plus.java" changelist="5b90efd6-0269-460a-92b1-4309b228d431" time="1373466545555" ignored="false" />
     <file path="/Times.java" changelist="5b90efd6-0269-460a-92b1-4309b228d431" time="1373467559197" ignored="false" />
     <file path="/Division.java" changelist="5b90efd6-0269-460a-92b1-4309b228d431" time="1373467584242" ignored="false" />
-    <file path="/Main.java" changelist="5b90efd6-0269-460a-92b1-4309b228d431" time="1373468254380" ignored="false" />
+    <file path="/Main.java" changelist="5b90efd6-0269-460a-92b1-4309b228d431" time="1373468583918" ignored="false" />
     <file path="/Const.java" changelist="5b90efd6-0269-460a-92b1-4309b228d431" time="1373466135583" ignored="false" />
     <file path="/Variable.java" changelist="5b90efd6-0269-460a-92b1-4309b228d431" time="1373466267554" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -112,19 +97,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task_6_1_4/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="37" selection-start="356" selection-end="356" vertical-scroll-proportion="0.25104603">
+            <state line="6" column="26" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Plus.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Plus.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Task_6_1_4/Plus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
+            <state line="13" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.27196652">
               <folding />
             </state>
           </provider>
@@ -717,13 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task_6_1_4/Plus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task_6_1_4/Minus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="35" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
@@ -733,7 +711,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Task_6_1_4/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="37" selection-start="356" selection-end="356" vertical-scroll-proportion="0.25104603">
+        <state line="6" column="26" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task_6_1_4/Plus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.27196652">
           <folding />
         </state>
       </provider>

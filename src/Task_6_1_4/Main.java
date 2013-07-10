@@ -15,5 +15,6 @@ public class Main {
                     )
                 ),
                 new Const(1)).evaluate(3);
+        System.out.println("Result is: " + result);
     }
 }
